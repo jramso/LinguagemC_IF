@@ -43,17 +43,21 @@ int lenLista(Lista lst){
 };//informa o tamanho de elementos da lista
 
 tdado dadoLista(Lista lst,int i){
-    //declarando var
-    int aux=0;
-    pnoh dado=NULL;
-    //inicializando var
-    pnoh dado=lst->primeiro;
-    while (aux<i)
-    {
-        dado=dado->proximo;
-        aux++;
+    if (lst->tamanho<i){
+        return NULL;
+    }else{
+        //declarando var
+        int aux=0;
+        pnoh dado=NULL;
+        //inicializando var
+        pnoh dadoLst=lst->primeiro;
+        while (aux<i)
+        {
+            dadoLst=dadoLst->proximo;
+            aux++;
+        }
+        return dadoLst->dado;
     }
-    return dado->dado;
 };//retorna o dado da lista na posiçao i para sexta-feira 27/05
 int indexLista(Lista lst,tdado dado){
 
