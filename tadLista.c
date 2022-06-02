@@ -1,11 +1,12 @@
 #include <stdio.h>;
 #include "tadlista.h";
-#include <stdlib.h>
+#include <stdlib.h>;
 
 
 /**********************************
 *
 ***IMPLEMENTAÇÃO DA INTERFACE DO TADLISTA
+*
 *
 ****************************/
 
@@ -16,7 +17,8 @@ Lista criaLista(){
     lista->tamanho=0;//'tamanho' da 'lista' é 0 sem elementos ate então
     return lista; //retorna a 'lista'
 
-};
+};//Função que cria uma lista
+
 Lista appendLista(Lista lst,tdado dado){
         pnoh novoNo = (pnoh)malloc(sizeof(tnode));//crio um novo no do tamanho de um tnode
         novoNo->proximo=NULL;//proximo do "ultimo novo" dado recebe null
@@ -32,7 +34,7 @@ Lista appendLista(Lista lst,tdado dado){
     lst->tamanho++;//acrescenta +1 ao tamanho
     return lst;
 
-};//
+};//função que insere um dado no Final da Lista
 Lista insertLista(Lista lst,int pos,tdado dado){
     if  ((lst->tamanho)+1<pos){//se tentar inserir num tamanho maior que a 'lista+1' exibir um erro por estar fora de alcance e retornar nulo;
         printf("var 'i' out of index");
@@ -64,7 +66,7 @@ Lista insertLista(Lista lst,int pos,tdado dado){
         lst->tamanho+=1; //aumento em um o tamanho
         return lst; 
     }
-};//insere um dado na lista
+};//função que insere um dado na lista
 
 tdado removeLista(Lista lst,int i){
     //Remover um elo e unir anterior com o próximo
@@ -84,7 +86,7 @@ tdado removeLista(Lista lst,int i){
     }
 
 
-};//remove um dado da lista
+};//função que remove um dado da lista
 
 int lenLista(Lista lst){
     return lst->tamanho;
@@ -121,7 +123,7 @@ tdado dadoListaProf(Lista lst,int i){
         no_corrente=no_corrente->proximo;
     }
     return no_corrente->dado;
-}//dadoLista desenvolvido pelo Professor
+}//função 'dadoLista' desenvolvido pelo Professor
 
 int indexLista(Lista lst,tdado dado){
 

@@ -1,3 +1,11 @@
+/*****************
+** Estrutura de dados (prof: Ernani) Ifes Serra 2022
+**
+** BIBLIOTECA DE CABEÇALHOS PARA UMA LISTA DE QUALQUER TIPO DE DADO 'TAD' em linguagem C
+** Josué Ramos Souza - Github: @Jramso
+** https://github.com/jramso/LinguagemC_IF
+*******************/
+
 /*
 Estrutura da Lista
 */

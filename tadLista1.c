@@ -3,6 +3,8 @@
 #include <tadLista.h>;
 #include <tadLista.c>;
 
+
+
 void colocaNaLista(Lista l,int a){
     int *pnum=NULL;
     pnum=(int *)malloc(sizeof(int));
