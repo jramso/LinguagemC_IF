@@ -27,11 +27,13 @@ void printElemLista(Lista l, int indice,char msg[]){
 int main(){
     Lista lst=criaLista();
     char msg[1000];
+    int n=55;
     for (int i=0; i<3;i++){
         int valor=(i*10);
         insereNaLista(lst,i,valor);
     }
-    for (int i=0;i<3;i++){
+    insereNaLista(lst,2,n);
+    for (int i=0;i<4;i++){
         printElemLista(lst,i,"dado:");
     }
     /* SEM SUB-ROTINA
