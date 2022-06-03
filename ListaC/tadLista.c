@@ -57,14 +57,7 @@ Lista insertLista(Lista lst,int pos,tdado dadonovo){
                         contpulos++;
                 }
                 novoNo->proximo=auxNo->proximo; // 'novoNo->proximo' recebe o valor de proximo do nó atual encadeando a lista pra frente 
-                auxNo->proximo=novoNo; 
-                // for (int j=0;j<pos;j++){ //se j for menor do que onde eu quero colocar
-                //     auxNo=auxNo->proximo;//no auxiliar recebe o proximo no 1
-                //     if (j==(pos-1)){
-                //         novoNo->proximo=auxNo->proximo; // 'novoNo->proximo' recebe o valor de proximo do nó atual encadeando a lista pra frente 
-                //         auxNo->proximo=novoNo; //(nó atual)'auxNo->proximo' recebe como proximo o 'novoNo' encadeando a parte de tras da lista
-                //     }
-                // }//cheguei no no que eu queria
+                auxNo->proximo=novoNo; //cheguei no no que eu queria
             }
         }
         lst->tamanho+=1; //aumento em um o tamanho
