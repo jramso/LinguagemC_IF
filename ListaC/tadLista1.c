@@ -1,7 +1,6 @@
-#include <stdio.h>;
-#include <stdlib.h>;
-#include <tadLista.h>;
-#include <tadLista.c>;
+#include <stdio.h>
+#include <stdlib.h>
+#include "tadLista.c"
 
 
 
@@ -10,6 +9,13 @@ void colocaNaLista(Lista l,int a){
     pnum=(int *)malloc(sizeof(int));
     *pnum=a;
     appendLista(l,pnum);
+    return l;
+}
+void insereNaLista(Lista l,int i,int a){
+    int *pnum=NULL;
+    pnum=(int *)malloc(sizeof(int));
+    *pnum=a;
+    insertLista(l,i,pnum);
     return l;
 }
 void printElemLista(Lista l, int indice,char msg[]){
@@ -21,8 +27,12 @@ void printElemLista(Lista l, int indice,char msg[]){
 int main(){
     Lista lst=criaLista();
     char msg[1000];
-    for (int i=0; i<50;i++){
-        colocaNaLista(lst,i*10);
+    for (int i=0; i<3;i++){
+        int valor=(i*10);
+        insereNaLista(lst,i,valor);
+    }
+    for (int i=0;i<3;i++){
+        printElemLista(lst,i,"dado:");
     }
     /* SEM SUB-ROTINA
     int *pnum=NULL;

@@ -1,6 +1,6 @@
-#include <stdio.h>;
-#include "tadlista.h";
-#include <stdlib.h>;
+#include <stdio.h>
+#include "tadlista.h"
+#include <stdlib.h>
 
 
 /**********************************
@@ -35,37 +35,40 @@ Lista appendLista(Lista lst,tdado dado){
     return lst;
 
 };//função que insere um dado no Final da Lista
-Lista insertLista(Lista lst,int pos,tdado dado){
+Lista insertLista(Lista lst,int pos,tdado dadonovo){
     if  ((lst->tamanho)+1<pos){//se tentar inserir num tamanho maior que a 'lista+1' exibir um erro por estar fora de alcance e retornar nulo;
-        printf("var 'i' out of index");
+        printf("var 'pos' out of index");
         return NULL;
     }
     else{  //caso nao
-        pnoh novoNo;
-        novoNo->dado=dado;
+        
+        pnoh novoNo=(pnoh)malloc(sizeof(tnode));
+        (novoNo->dado)=dadonovo;
         novoNo->proximo=NULL;
-        if (lst->tamanho==0){ // Se a lista é vazia 'primeiro' e 'ultimo' sao o 'novoNo', e o proximo de 'novoNo' aponta pra 'NULL'
-            lst->primeiro=novoNo;
-            lst->ultimo=novoNo;
-        }else{//caso nao
-            if (pos==(lst->tamanho+1)){//se for o ultimo ja tenho o 'appendLista()' entao chamo o append
-                appendLista(lst,dado);
-            }
-            else{//se for pra inserir em qualquer lugar entre 2 nós
-                pnoh auxNo;
-                auxNo=lst->primeiro;//crio um no auxiliar
-                for (int j=0;j<pos;j++){ //se j for menor do que onde eu quero colocar
-                    auxNo=auxNo->proximo;//no auxiliar recebe o proximo no 1
-                    if (j==pos-1){
-                        novoNo->proximo=auxNo->proximo; // 'novoNo->proximo' recebe o valor de proximo do nó atual encadeando a lista pra frente 
-                        auxNo->proximo=novoNo; //(nó atual)'auxNo->proximo' recebe como proximo o 'novoNo' encadeando a parte de tras da lista
-                    }
-                }//cheguei no no que eu queria
+
+        if ((lst->tamanho==0) || (pos==(lst->tamanho+1))){ // Se a lista é vazia 'primeiro' e 'ultimo' sao o 'novoNo', e o proximo de 'novoNo' aponta pra 'NULL'
+            appendLista(lst,dadonovo);}
+        else{//caso nao seja primeiro ou ultimo elemento da lista
+                pnoh auxNo=(pnoh)malloc(sizeof(tnode));
+                int contpulos=0;
+                auxNo=lst->primeiro;//crio um no auxiliar e coloco o primeiro elemento nele
+                while (contpulos<pos-1){
+                        auxNo=auxNo->proximo;
+                        contpulos++;
+                }
+                novoNo->proximo=auxNo->proximo; // 'novoNo->proximo' recebe o valor de proximo do nó atual encadeando a lista pra frente 
+                auxNo->proximo=novoNo; 
+                // for (int j=0;j<pos;j++){ //se j for menor do que onde eu quero colocar
+                //     auxNo=auxNo->proximo;//no auxiliar recebe o proximo no 1
+                //     if (j==(pos-1)){
+                //         novoNo->proximo=auxNo->proximo; // 'novoNo->proximo' recebe o valor de proximo do nó atual encadeando a lista pra frente 
+                //         auxNo->proximo=novoNo; //(nó atual)'auxNo->proximo' recebe como proximo o 'novoNo' encadeando a parte de tras da lista
+                //     }
+                // }//cheguei no no que eu queria
             }
         }
         lst->tamanho+=1; //aumento em um o tamanho
         return lst; 
-    }
 };//função que insere um dado na lista
 
 tdado removeLista(Lista lst,int i){
