@@ -3,6 +3,29 @@
 #include "tadlista.c"
 
 
+typedef struct pessoa
+{
+   char nome;
+   char cpf;
+   float altura;
+   int idade;
+}*tpessoa;
+
+void arqPessoa(Lista lst,tpessoa p1){
+    FILE *pont_arq;
+    pont_arq = fopen("bdveiculos.txt","wa");
+    for(int i=0;i<=lst->tamanho;i++){
+        fprintf(pont_arq,"%s,%f,%s,%d\n",p1->nome,p1->altura,p1->cpf,p1->idade);
+    }
+    //CONTINUE ISSO AKI QUE NAO TA PRONTO
+    //
+    //
+    //
+    //
+    
+    fclose(pont_arq);
+}
+
 void printCharLista(Lista l, int indice){
     char *pnum;
     pnum=(char *)malloc(sizeof(tdado));
@@ -23,6 +46,7 @@ void arqCarregaDados(char arq[],Lista lst){
             i++;
         }
     }
+    printf("\n");
     fclose(pontarq);
 }//Essa função le as linhas de um arquivo e preenche uma lista com cada linha
 // depois exibe na tela os dados lidos e colocados na lista
