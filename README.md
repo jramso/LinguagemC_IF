@@ -7,7 +7,8 @@ Repositório Voltado para atividades de Programação em Linguagem C
 
     Questao1: Pasta contendo o codigo e o arquivo referente a questão 1.
     
-        "questao1.c": código 'main', recebe um arquivo de veiculos le, e utilizando uma função filtro cria novos arquivos utilizando o parametro 'marca[20]'.
+        "questao1.c": código 'main', recebe um arquivo de veiculos le, 
+        e utilizando uma função filtro cria novos arquivos utilizando o parametro 'marca[20]'.
         "bdveiculos.txt": arquivo principal fornecido para o funcionamento do programa.
         "fiatSaida.txt": arquivo derivado da função 'Filtro'.
         "fordSaida.txt": arquivo derivado da função 'Filtro'.
