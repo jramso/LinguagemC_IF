@@ -1,25 +1,7 @@
 #include <stdio.h>
+#include "tadlista.h"
 #include <stdlib.h>
 
-/*
-Estrutura da Lista
-*/
-typedef void *tdado;
-
-typedef struct tnoh{
-    tdado dado; // ponteiro para void *tdado
-    struct tnoh *proximo;
-}tnode;
-
-typedef tnode* pnoh; //nós da lista com o dado e endereço do proximo dado
-
-typedef struct{
-    pnoh primeiro;
-    pnoh ultimo;
-    int tamanho;
-}tcabec;//struc de cabecalho da lista
-
-typedef tcabec* Lista; //lista um ponteiro do tipo tcabec*
 
 /**********************************
 *
@@ -53,7 +35,7 @@ Lista appendLista(Lista lst,tdado dado){
     return lst;
 
 };//função que insere um dado no Final da Lista
-Lista insertLista(Lista lst,int pos,tdado dadonovo){
+Lista insertLista(Lista lst,int pos,tdado dado){
     if  ((lst->tamanho)+1<pos){//se tentar inserir num tamanho maior que a 'lista+1' exibir um erro por estar fora de alcance e retornar nulo;
         printf("var 'pos' out of index");
         return NULL;
@@ -61,11 +43,11 @@ Lista insertLista(Lista lst,int pos,tdado dadonovo){
     else{  //caso nao
         
         pnoh novoNo=(pnoh)malloc(sizeof(tnode));
-        (novoNo->dado)=dadonovo;
+        (novoNo->dado)=dado;
         novoNo->proximo=NULL;
 
         if ((lst->tamanho==0) || (pos==(lst->tamanho+1))){ // Se a lista é vazia 'primeiro' e 'ultimo' sao o 'novoNo', e o proximo de 'novoNo' aponta pra 'NULL'
-            appendLista(lst,dadonovo);}
+            appendLista(lst,dado);}
         else{//caso nao seja primeiro ou ultimo elemento da lista
                 pnoh auxNo=(pnoh)malloc(sizeof(tnode));
                 int contpulos=0;
