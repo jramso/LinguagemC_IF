@@ -1,3 +1,7 @@
+/***********************************
+** Josué Ramos Souza - Github: @Jramso
+** https://github.com/jramso/LinguagemC_IF
+*******************************/
 #include <stdio.h>
 #include <stdlib.h>
 #include "tadlista.c"
