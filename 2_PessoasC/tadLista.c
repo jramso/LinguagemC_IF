@@ -26,7 +26,6 @@ Lista appendLista(Lista lst,tdado dado){
     if (lst->tamanho==0){//se nao tem elementos na lista
         lst->primeiro=novoNo;// 'primeiro' e 'ultimo' recebem o elemento inseridos no 'Append'
         lst->ultimo=novoNo;
-        lst->tamanho++;//acrescento 1 ao tamanho
     }else{
         lst->ultimo->proximo = novoNo;
         lst->ultimo=novoNo;
@@ -59,8 +58,8 @@ Lista insertLista(Lista lst,int pos,tdado dado){
                 novoNo->proximo=auxNo->proximo; // 'novoNo->proximo' recebe o valor de proximo do nó atual encadeando a lista pra frente 
                 auxNo->proximo=novoNo; //cheguei no no que eu queria
             }
+        lst->tamanho++; //aumento em um o tamanho
         }
-        lst->tamanho+=1; //aumento em um o tamanho
         return lst; 
 };//função que insere um dado na lista
 
@@ -98,8 +97,8 @@ tdado dadoLista(Lista lst,int i){
         pnoh dadoLst=lst->primeiro;
         while (aux<i)
         {
-            dadoLst=dadoLst->proximo;
             aux++;
+            dadoLst=dadoLst->proximo;
         }
        return dadoLst->dado;
     }

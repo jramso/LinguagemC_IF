@@ -41,6 +41,7 @@ tdado removeLista(Lista lst,int i);//remove um dado da lista
 int lenLista(Lista lst);//informa o tamanho de elementos da lista
 
 tdado dadoLista(Lista lst,int i);//retorna o dado da lista
+tdado dadoListaProf(Lista lst,int i);//retorna o dado da lista
 int indexLista(Lista lst,tdado dado);
 Lista clearLista(Lista lst);
 tdado primLista(Lista lst);//primeiro dado da Lista
