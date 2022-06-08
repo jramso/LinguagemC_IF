@@ -38,7 +38,7 @@ void intersecao(int *vetA,int a,int *vetB,int b,int *vetC,int c){
         if(i<b){
             vetB[i]=rand()%50;
             printf("    B: %d\n",vetB[i]);
-        }
+        }else{printf("\n");}
     }
 
     printf("\n");
