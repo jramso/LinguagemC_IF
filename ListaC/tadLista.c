@@ -26,7 +26,6 @@ Lista appendLista(Lista lst,tdado dado){
     if (lst->tamanho==0){//se nao tem elementos na lista
         lst->primeiro=novoNo;// 'primeiro' e 'ultimo' recebem o elemento inseridos no 'Append'
         lst->ultimo=novoNo;
-        lst->tamanho++;//acrescento 1 ao tamanho
     }else{
         lst->ultimo->proximo = novoNo;
         lst->ultimo=novoNo;
