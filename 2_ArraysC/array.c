@@ -46,6 +46,6 @@ int main(){
     int *vet_I;
 
     intersecao(vet_A,10,vet_B,10,vet_I,10);
-
+    //FALTA TERMINAR
     return 0;
 }
