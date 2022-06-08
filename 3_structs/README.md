@@ -9,7 +9,8 @@
     O programa C não deve fazer uso de arrays, apenas lógica estruturada simples. Todas as
     leituras citadas no enunciado devem ocorrer via teclado.
     Produza os dados de teste para avaliar a solução construída por você.
-2. **Enunciado:** \n
+2. **Enunciado:**
+
     Deseja-se fazer uma pesquisa a respeito do consumo mensal de energia elétrica em 
     uma determinada cidade. Para isso, são fornecidos os seguintes dados:
     - preço do kWh consumido;
