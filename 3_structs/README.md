@@ -1,5 +1,5 @@
 1. **Structs em C:**
-    - **[lista](listaExerProgFarrer-REV.pdf) -  1.12.13**
+    - **[Lista do Farrer](listaExerProgFarrer-REV.pdf) -  1.12.13**
     - Escreva um programa C seguindo o padrão de construção adotado nas aulas de Estrutura
     de Dados. O programa C deve apresentar uma solução para o problema número 1.12.13,
     pesquisa a respeito do consumo mensal de energia elétrica. (lista de exercícios no arquivo
