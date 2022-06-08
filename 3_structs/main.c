@@ -7,7 +7,7 @@ do livro do Farrer 1.12.13 (consumo de energia elétrica)
 .Abril 2022 README.md
 ***********************************
 ** Josué Ramos Souza - Github: @Jramso
-** https://github.com/jramso/LinguagemC_IF
+** https://github.com/jramso/LinguagemC_IF/tree/main/3_structs
 ************ 3_structs *********
 *******************************/
 
