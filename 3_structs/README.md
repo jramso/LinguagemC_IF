@@ -1,5 +1,5 @@
 1. **Structs em C:**
-    - listaExerProgFarrer-REV.pdf -  1.12.13
+    - **listaExerProgFarrer-REV.pdf -  1.12.13**
     - Escreva um programa C seguindo o padrão de construção adotado nas aulas de Estrutura
     de Dados. O programa C deve apresentar uma solução para o problema número 1.12.13,
     pesquisa a respeito do consumo mensal de energia elétrica. (lista de exercícios no arquivo
@@ -20,11 +20,11 @@
     O número do consumidor igual a zero deve ser usado como flag. Fazer um algoritmo que:
     - leia os dados descritos acima:
     - **2.1 Calcule:**
-    - - a: para cada consumidor, o total a pagar;
-    - - b: o maior consumo verificado;
-    - - c: o menor consumo verificado;
-    - - d: o total do consumo para cada um dos três tipos de consumidores;
-    - - e: a média geral de consumo;
+    - - **A:** para cada consumidor, o total a pagar;
+    - - **B:** o maior consumo verificado;
+    - - **C:** o menor consumo verificado;
+    - - **D:** o total do consumo para cada um dos três tipos de consumidores;
+    - - **E:** a média geral de consumo;
     - **2.2. Escreva:**
-    - - a: para cada consumidor, o seu número e o total a pagar;
-    - - b: o que foi calculado nos itens b, c, d, e acima especificados.
+    - - **A:** para cada consumidor, o seu número e o total a pagar;
+    - - **B:** o que foi calculado nos itens b, c, d, e acima especificados.
