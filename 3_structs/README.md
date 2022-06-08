@@ -18,7 +18,7 @@
     - código do tipo de consumidor (residencial, comercial, industrial).
     O número do consumidor igual a zero deve ser usado como flag. Fazer um algoritmo que:
     - leia os dados descritos acima:
-    2.1. Calcule:
+    2.1 Calcule:
     - - a: para cada consumidor, o total a pagar;
     - - b: o maior consumo verificado;
     - - c: o menor consumo verificado;
