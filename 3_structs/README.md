@@ -19,9 +19,9 @@
     O número do consumidor igual a zero deve ser usado como flag. Fazer um algoritmo que:
     - leia os dados descritos acima:
     - calcule:
-    *a: para cada consumidor, o total a pagar;
-    *b: o maior consumo verificado;
-    *c: o menor consumo verificado;
+    -- a: para cada consumidor, o total a pagar;
+    -- b: o maior consumo verificado;
+    -- c: o menor consumo verificado;
     *d: o total do consumo para cada um dos três tipos de consumidores;
     *e: a média geral de consumo;
     - escreva:
