@@ -63,6 +63,7 @@ Lista insertLista(Lista lst,int pos,tdado dadonovo){
         return lst; 
 };//função que insere um dado na lista
 
+
 tdado removeLista(Lista lst,int i){
     //Remover um elo e unir anterior com o próximo
     if (i<=lst->tamanho){
@@ -105,9 +106,7 @@ tdado removeLista(Lista lst,int i){
         printf("var %d out of index",i);
         return NULL;
     }
-
-
-};//função que remove um dado da lista
+};//funcao que remove um dado da lista
 
 int lenLista(Lista lst){
     return lst->tamanho;
@@ -147,7 +146,34 @@ tdado dadoListaProf(Lista lst,int i){
 }//função 'dadoLista' desenvolvido pelo Professor
 
 int indexLista(Lista lst,tdado dado){
-    
+    int tamanho=lst->tamanho;
+    int posicao=0;
+    tdado dado_da_lista=0;
+
+    dado_da_lista=dadoLista(lst,posicao);//leitura da pos 0
+    posicao++;//pos==1
+    while ((posicao<tamanho-1) && (dado_da_lista!=dado))
+    {
+        /* code */
+        dado_da_lista=dadoLista(lst,posicao);
+        posicao++;
+    }
+    if (dado_da_lista==dado) {
+        return posicao-1;
+    }
+    else{
+        return -1;
+    }
+    /* OU
+    int tamanho =lst->tamanho;
+    for (int posicao=0;posicao<tamanho;posicao++){
+        if (dado_da_lista==dado){
+            return posicao;
+        }
+    }
+    return -1;
+    */
+
 };
 Lista clearLista(Lista lst){
     for(int i=0;i<=lst->tamanho;i++){
