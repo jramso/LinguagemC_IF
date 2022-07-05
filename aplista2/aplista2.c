@@ -17,7 +17,7 @@ typedef struct A
 typedef struct B
 {
     /* data */
-    char placa[8];
+    char placa[10];
     char modelo[50];
     char marca[50];
     int quilometragem;
@@ -30,7 +30,7 @@ typedef struct
     char cpf[13];
     char nome[150];
     char email[150];
-    char placa[8];
+    char placa[10];
     char modelo[50];
     char marca[50];
 }tdono;// Letra D
@@ -81,7 +81,8 @@ Lista lVeiculo(char arqnome[]){
         ps=strtok(aux,",");
         if(ps){
             strcpy(veic->placa,ps);
-            ps=strtok(NULL,", ");
+            ps=strtok(NULL,",");
+
             strcpy(veic->modelo,ps);
             ps=strtok(NULL,", ");
             strcpy(veic->marca,ps);
@@ -93,7 +94,7 @@ Lista lVeiculo(char arqnome[]){
             strcpy(veic->cpf,ps);
             ps=NULL;
         }
-        printf("%s\n",veic->placa);
+        //printf("%s\n",veic->placa);
         //printf("%s,%s,%s,%d,%s\n",veic->placa,veic->modelo,veic->marca,veic->quilometragem,veic->cpf);
         appendLista(lst,veic);
     }
@@ -106,27 +107,30 @@ Lista lDonos(Lista lA,Lista lB){
     tdono *donoV;
     veiculo *veic;
     proprietario *dono;
+    char *ps;
     int ret;
-
+    int aux=0;
     for (int i=0;i<lA->tamanho;i++){
-        donoV=(tdono*)malloc(sizeof(tdono));
+        dono=(proprietario*)malloc(sizeof(proprietario));
         dono=(proprietario*)dadoListaProf(lA,i);
 
         for(int j=0;j<lB->tamanho;j++){
+            donoV=(tdono*)malloc(sizeof(tdono));
+            veic=(veiculo*)malloc(sizeof(veiculo));
             veic=(veiculo*)dadoListaProf(lB,j);
             ret=strncmp(veic->cpf,dono->cpf,9);
             if(ret==0){
                 strcpy(donoV->cpf,dono->cpf);
                 strcpy(donoV->nome,dono->nome);
                 strcpy(donoV->email,dono->email);
-                strcpy(donoV->placa,veic->placa);
+                ps=strtok(veic->placa," ");
+                strcpy(donoV->placa,ps);
                 strcpy(donoV->modelo,veic->modelo);
                 strcpy(donoV->marca,veic->marca);
-                printf("%s, ",donoV->cpf);                
-                printf("%s, ",donoV->nome);                
-                printf("%s, ",donoV->modelo);                
-                printf("%s\n",donoV->placa); //debugando preenche normal
-                appendLista(lst,donoV); // porem no final os modelos estao diferentes
+                printf("%s,%s,%s,%s,%s\n",donoV->cpf,donoV->nome,donoV->email,donoV->placa,donoV->modelo); //debugando preenche normal
+                insertLista(lst,aux,donoV); // porem no final os modelos estao diferentes
+                aux++;
+                ps=NULL;
             }
 
         }
@@ -139,9 +143,10 @@ void preencheDonos(Lista lD,char arqnome[]){
     tdono *dV;
     FILE *pontArqv;
     pontArqv = fopen(arqnome,"w");
-    dV=(tdono*)malloc(sizeof(tdono));
-    for(int i=0;i<lenLista(lD);i++){
+    for(int i=0;i<lD->tamanho-1;i++){
+        dV=(tdono*)malloc(sizeof(tdono));
         dV=(tdono*)dadoListaProf(lD,i);
+        //printf("%s,%s,%s,%s,%s,%s\n",dV->cpf,dV->nome,dV->email,dV->placa,dV->modelo,dV->marca);
         fprintf(pontArqv,"%s,%s,%s,%s,%s,%s\n",dV->cpf,dV->nome,dV->email,dV->placa,dV->modelo,dV->marca);//por algum motivo ta preenchendo repetido
     }
     fclose(pontArqv);
@@ -152,7 +157,6 @@ int main(){
     Lista listaB;//Letra B
     Lista donos;
     listaA=lPessoa("bdproprietarios.txt");
-    printf("\n\n\n\n\n");
     listaB=lVeiculo("bdveiculos_donos.txt");
     donos=lDonos(listaA,listaB);
     preencheDonos(donos,"bd-donos-veiculos.txt");

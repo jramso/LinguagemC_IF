@@ -1,149 +1,150 @@
-630401412-48,Lorena Araújo, laraújo@gmx.com.br,TFF-9824KWID,KWID,RENAULT
-630401412-48,Lorena Araújo, laraújo@gmx.com.br,TFF-9824KWID,KWID,RENAULT
-630401412-48,Lorena Araújo, laraújo@gmx.com.br,TFF-9824KWID,KWID,RENAULT
-630401412-48,Lorena Araújo, laraújo@gmx.com.br,TFF-9824KWID,KWID,RENAULT
-630401412-48,Lorena Araújo, laraújo@gmx.com.br,TFF-9824KWID,KWID,RENAULT
-630401412-48,Lorena Araújo, laraújo@gmx.com.br,TFF-9824KWID,KWID,RENAULT
-909028364-64,Anthony Santos Nascimento Oliveira, asantos@icloud.com.br,ECG-6138ETIOS,ETIOS,TOYOTA
-909028364-64,Anthony Santos Nascimento Oliveira, asantos@icloud.com.br,ECG-6138ETIOS,ETIOS,TOYOTA
-909028364-64,Anthony Santos Nascimento Oliveira, asantos@icloud.com.br,ECG-6138ETIOS,ETIOS,TOYOTA
-909028364-64,Anthony Santos Nascimento Oliveira, asantos@icloud.com.br,ECG-6138ETIOS,ETIOS,TOYOTA
-909028364-64,Anthony Santos Nascimento Oliveira, asantos@icloud.com.br,ECG-6138ETIOS,ETIOS,TOYOTA
-909028364-64,Anthony Santos Nascimento Oliveira, asantos@icloud.com.br,ECG-6138ETIOS,ETIOS,TOYOTA
-948817225-52,Leonardo Almeida Barbosa, lalmeida@proton.com.br,TJK-8500CLASSIC,CLASSIC,CHEVROLET
-948817225-52,Leonardo Almeida Barbosa, lalmeida@proton.com.br,TJK-8500CLASSIC,CLASSIC,CHEVROLET
-948817225-52,Leonardo Almeida Barbosa, lalmeida@proton.com.br,TJK-8500CLASSIC,CLASSIC,CHEVROLET
-948817225-52,Leonardo Almeida Barbosa, lalmeida@proton.com.br,TJK-8500CLASSIC,CLASSIC,CHEVROLET
-948817225-52,Leonardo Almeida Barbosa, lalmeida@proton.com.br,TJK-8500CLASSIC,CLASSIC,CHEVROLET
-948817225-52,Leonardo Almeida Barbosa, lalmeida@proton.com.br,TJK-8500CLASSIC,CLASSIC,CHEVROLET
-670553069-95,Leonardo Barros, lbarros@yahoo.com.br,FYN-5559SAVEIRO,SAVEIRO,VOLKSWAGEN
-670553069-95,Leonardo Barros, lbarros@yahoo.com.br,FYN-5559SAVEIRO,SAVEIRO,VOLKSWAGEN
-670553069-95,Leonardo Barros, lbarros@yahoo.com.br,FYN-5559SAVEIRO,SAVEIRO,VOLKSWAGEN
-670553069-95,Leonardo Barros, lbarros@yahoo.com.br,FYN-5559SAVEIRO,SAVEIRO,VOLKSWAGEN
-670553069-95,Leonardo Barros, lbarros@yahoo.com.br,FYN-5559SAVEIRO,SAVEIRO,VOLKSWAGEN
-670553069-95,Leonardo Barros, lbarros@yahoo.com.br,FYN-5559SAVEIRO,SAVEIRO,VOLKSWAGEN
-876356656-48,Maria Luiza Barbosa, mluiza@outlook.com.br,CWX-7389CITY,CITY,HONDA
-876356656-48,Maria Luiza Barbosa, mluiza@outlook.com.br,CWX-7389CITY,CITY,HONDA
-876356656-48,Maria Luiza Barbosa, mluiza@outlook.com.br,CWX-7389CITY,CITY,HONDA
-876356656-48,Maria Luiza Barbosa, mluiza@outlook.com.br,CWX-7389CITY,CITY,HONDA
-876356656-48,Maria Luiza Barbosa, mluiza@outlook.com.br,CWX-7389CITY,CITY,HONDA
-876356656-48,Maria Luiza Barbosa, mluiza@outlook.com.br,CWX-7389CITY,CITY,HONDA
-744394795-02,Lucas Oliveira Pinto, loliveira@outlook.com.br,VZD-2940TORO,TORO,FIAT
-744394795-02,Lucas Oliveira Pinto, loliveira@outlook.com.br,VZD-2940TORO,TORO,FIAT
-744394795-02,Lucas Oliveira Pinto, loliveira@outlook.com.br,VZD-2940TORO,TORO,FIAT
-744394795-02,Lucas Oliveira Pinto, loliveira@outlook.com.br,VZD-2940TORO,TORO,FIAT
-744394795-02,Lucas Oliveira Pinto, loliveira@outlook.com.br,VZD-2940TORO,TORO,FIAT
-744394795-02,Lucas Oliveira Pinto, loliveira@outlook.com.br,VZD-2940TORO,TORO,FIAT
-725199257-28,Davi Pereira Rodrigues Campos, dpereira@zoho.com.br,NWP-7285LOGAN,LOGAN,RENAULT
-725199257-28,Davi Pereira Rodrigues Campos, dpereira@zoho.com.br,NWP-7285LOGAN,LOGAN,RENAULT
-725199257-28,Davi Pereira Rodrigues Campos, dpereira@zoho.com.br,NWP-7285LOGAN,LOGAN,RENAULT
-725199257-28,Davi Pereira Rodrigues Campos, dpereira@zoho.com.br,NWP-7285LOGAN,LOGAN,RENAULT
-725199257-28,Davi Pereira Rodrigues Campos, dpereira@zoho.com.br,NWP-7285LOGAN,LOGAN,RENAULT
-725199257-28,Davi Pereira Rodrigues Campos, dpereira@zoho.com.br,NWP-7285LOGAN,LOGAN,RENAULT
-709019980-45,Luiza Rodrigues Dias Santos, lrodrigues@zoho.com.br,ZWU-8979UNO,UNO,FIAT
-709019980-45,Luiza Rodrigues Dias Santos, lrodrigues@zoho.com.br,ZWU-8979UNO,UNO,FIAT
-709019980-45,Luiza Rodrigues Dias Santos, lrodrigues@zoho.com.br,ZWU-8979UNO,UNO,FIAT
-709019980-45,Luiza Rodrigues Dias Santos, lrodrigues@zoho.com.br,ZWU-8979UNO,UNO,FIAT
-709019980-45,Luiza Rodrigues Dias Santos, lrodrigues@zoho.com.br,ZWU-8979UNO,UNO,FIAT
-709019980-45,Luiza Rodrigues Dias Santos, lrodrigues@zoho.com.br,ZWU-8979UNO,UNO,FIAT
-909764851-70,Valentina Martins Moura Rodrigues, vmartins@aol.com.br,FEI-6567CLASSIC,CLASSIC,CHEVROLET
-909764851-70,Valentina Martins Moura Rodrigues, vmartins@aol.com.br,FEI-6567CLASSIC,CLASSIC,CHEVROLET
-909764851-70,Valentina Martins Moura Rodrigues, vmartins@aol.com.br,FEI-6567CLASSIC,CLASSIC,CHEVROLET
-909764851-70,Valentina Martins Moura Rodrigues, vmartins@aol.com.br,FEI-6567CLASSIC,CLASSIC,CHEVROLET
-909764851-70,Valentina Martins Moura Rodrigues, vmartins@aol.com.br,FEI-6567CLASSIC,CLASSIC,CHEVROLET
-909764851-70,Valentina Martins Moura Rodrigues, vmartins@aol.com.br,FEI-6567CLASSIC,CLASSIC,CHEVROLET
-918062698-70,Sophia Dias, sdias@proton.com.br,LZW-5288PUNTO,PUNTO,FIAT
-918062698-70,Sophia Dias, sdias@proton.com.br,LZW-5288PUNTO,PUNTO,FIAT
-918062698-70,Sophia Dias, sdias@proton.com.br,LZW-5288PUNTO,PUNTO,FIAT
-918062698-70,Sophia Dias, sdias@proton.com.br,LZW-5288PUNTO,PUNTO,FIAT
-918062698-70,Sophia Dias, sdias@proton.com.br,LZW-5288PUNTO,PUNTO,FIAT
-918062698-70,Sophia Dias, sdias@proton.com.br,LZW-5288PUNTO,PUNTO,FIAT
-891214787-48,Eloá Castro, ecastro@icloud.com.br,JSO-8338LOGAN,LOGAN,RENAULT
-891214787-48,Eloá Castro, ecastro@icloud.com.br,JSO-8338LOGAN,LOGAN,RENAULT
-891214787-48,Eloá Castro, ecastro@icloud.com.br,JSO-8338LOGAN,LOGAN,RENAULT
-891214787-48,Eloá Castro, ecastro@icloud.com.br,JSO-8338LOGAN,LOGAN,RENAULT
-891214787-48,Eloá Castro, ecastro@icloud.com.br,JSO-8338LOGAN,LOGAN,RENAULT
-891214787-48,Eloá Castro, ecastro@icloud.com.br,JSO-8338LOGAN,LOGAN,RENAULT
-892379669-83,Isaac Fernandes, ifernandes@zoho.com.br,AZG-7813VOYAGE,VOYAGE,VOLKSWAGEN
-892379669-83,Isaac Fernandes, ifernandes@zoho.com.br,AZG-7813VOYAGE,VOYAGE,VOLKSWAGEN
-892379669-83,Isaac Fernandes, ifernandes@zoho.com.br,AZG-7813VOYAGE,VOYAGE,VOLKSWAGEN
-892379669-83,Isaac Fernandes, ifernandes@zoho.com.br,AZG-7813VOYAGE,VOYAGE,VOLKSWAGEN
-892379669-83,Isaac Fernandes, ifernandes@zoho.com.br,AZG-7813VOYAGE,VOYAGE,VOLKSWAGEN
-892379669-83,Isaac Fernandes, ifernandes@zoho.com.br,AZG-7813VOYAGE,VOYAGE,VOLKSWAGEN
-905661406-37,Calebe Nascimento Costa, cnascimento@outlook.com.br,YEU-8005HILUX,HILUX,TOYOTA
-905661406-37,Calebe Nascimento Costa, cnascimento@outlook.com.br,YEU-8005HILUX,HILUX,TOYOTA
-905661406-37,Calebe Nascimento Costa, cnascimento@outlook.com.br,YEU-8005HILUX,HILUX,TOYOTA
-905661406-37,Calebe Nascimento Costa, cnascimento@outlook.com.br,YEU-8005HILUX,HILUX,TOYOTA
-905661406-37,Calebe Nascimento Costa, cnascimento@outlook.com.br,YEU-8005HILUX,HILUX,TOYOTA
-905661406-37,Calebe Nascimento Costa, cnascimento@outlook.com.br,YEU-8005HILUX,HILUX,TOYOTA
-920868226-67,Théo Castro Freitas, tcastro@outlook.com.br,DCF-6035PALIO,PALIO,FIAT
-920868226-67,Théo Castro Freitas, tcastro@outlook.com.br,DCF-6035PALIO,PALIO,FIAT
-920868226-67,Théo Castro Freitas, tcastro@outlook.com.br,DCF-6035PALIO,PALIO,FIAT
-920868226-67,Théo Castro Freitas, tcastro@outlook.com.br,DCF-6035PALIO,PALIO,FIAT
-920868226-67,Théo Castro Freitas, tcastro@outlook.com.br,DCF-6035PALIO,PALIO,FIAT
-920868226-67,Théo Castro Freitas, tcastro@outlook.com.br,DCF-6035PALIO,PALIO,FIAT
-846605003-52,Bento Dias, bdias@aol.com.br,LYW-3622FIT,FIT,HONDA
-846605003-52,Bento Dias, bdias@aol.com.br,LYW-3622FIT,FIT,HONDA
-846605003-52,Bento Dias, bdias@aol.com.br,LYW-3622FIT,FIT,HONDA
-846605003-52,Bento Dias, bdias@aol.com.br,LYW-3622FIT,FIT,HONDA
-846605003-52,Bento Dias, bdias@aol.com.br,LYW-3622FIT,FIT,HONDA
-846605003-52,Bento Dias, bdias@aol.com.br,LYW-3622FIT,FIT,HONDA
-620727237-35,Alícia Barros Martins Castro, abarros@outlook.com.br,OQJ-8558ONIX,ONIX,CHEVROLET
-620727237-35,Alícia Barros Martins Castro, abarros@outlook.com.br,OQJ-8558ONIX,ONIX,CHEVROLET
-620727237-35,Alícia Barros Martins Castro, abarros@outlook.com.br,OQJ-8558ONIX,ONIX,CHEVROLET
-620727237-35,Alícia Barros Martins Castro, abarros@outlook.com.br,OQJ-8558ONIX,ONIX,CHEVROLET
-620727237-35,Alícia Barros Martins Castro, abarros@outlook.com.br,OQJ-8558ONIX,ONIX,CHEVROLET
-940532236-10,Cecília Rodrigues Nascimento, crodrigues@yahoo.com.br,EUO-2900FOX,FOX,VOLKSWAGEN
-940532236-10,Cecília Rodrigues Nascimento, crodrigues@yahoo.com.br,EUO-2900FOX,FOX,VOLKSWAGEN
-940532236-10,Cecília Rodrigues Nascimento, crodrigues@yahoo.com.br,EUO-2900FOX,FOX,VOLKSWAGEN
-940532236-10,Cecília Rodrigues Nascimento, crodrigues@yahoo.com.br,EUO-2900FOX,FOX,VOLKSWAGEN
-940532236-10,Cecília Rodrigues Nascimento, crodrigues@yahoo.com.br,EUO-2900FOX,FOX,VOLKSWAGEN
-702051221-38,Sophia Monteiro Martins, smonteiro@gmx.com.br,JHG-3886HILUX,HILUX,TOYOTA
-702051221-38,Sophia Monteiro Martins, smonteiro@gmx.com.br,JHG-3886HILUX,HILUX,TOYOTA
-702051221-38,Sophia Monteiro Martins, smonteiro@gmx.com.br,JHG-3886HILUX,HILUX,TOYOTA
-702051221-38,Sophia Monteiro Martins, smonteiro@gmx.com.br,JHG-3886HILUX,HILUX,TOYOTA
-702051221-38,Sophia Monteiro Martins, smonteiro@gmx.com.br,JHG-3886HILUX,HILUX,TOYOTA
-702051221-38,Sophia Monteiro Martins, smonteiro@gmx.com.br,JHG-3886HILUX,HILUX,TOYOTA
-950942727-73,Maria Helena Campos, mhelena@gmail.com.br,AIS-5180ECOSPORT,ECOSPORT,FORD
-950942727-73,Maria Helena Campos, mhelena@gmail.com.br,AIS-5180ECOSPORT,ECOSPORT,FORD
-950942727-73,Maria Helena Campos, mhelena@gmail.com.br,AIS-5180ECOSPORT,ECOSPORT,FORD
-950942727-73,Maria Helena Campos, mhelena@gmail.com.br,AIS-5180ECOSPORT,ECOSPORT,FORD
-950942727-73,Maria Helena Campos, mhelena@gmail.com.br,AIS-5180ECOSPORT,ECOSPORT,FORD
-950942727-73,Maria Helena Campos, mhelena@gmail.com.br,AIS-5180ECOSPORT,ECOSPORT,FORD
-705270096-86,Enrico Fernandes Nascimento Souza, efernandes@aol.com.br,FBN-3352CLASSIC,CLASSIC,CHEVROLET
-705270096-86,Enrico Fernandes Nascimento Souza, efernandes@aol.com.br,FBN-3352CLASSIC,CLASSIC,CHEVROLET
-705270096-86,Enrico Fernandes Nascimento Souza, efernandes@aol.com.br,FBN-3352CLASSIC,CLASSIC,CHEVROLET
-705270096-86,Enrico Fernandes Nascimento Souza, efernandes@aol.com.br,FBN-3352CLASSIC,CLASSIC,CHEVROLET
-705270096-86,Enrico Fernandes Nascimento Souza, efernandes@aol.com.br,FBN-3352CLASSIC,CLASSIC,CHEVROLET
-705270096-86,Enrico Fernandes Nascimento Souza, efernandes@aol.com.br,FBN-3352CLASSIC,CLASSIC,CHEVROLET
-831394128-21,Alícia Costa Araújo, acosta@icloud.com.br,KPN-4002FOX,FOX,VOLKSWAGEN
-831394128-21,Alícia Costa Araújo, acosta@icloud.com.br,KPN-4002FOX,FOX,VOLKSWAGEN
-831394128-21,Alícia Costa Araújo, acosta@icloud.com.br,KPN-4002FOX,FOX,VOLKSWAGEN
-831394128-21,Alícia Costa Araújo, acosta@icloud.com.br,KPN-4002FOX,FOX,VOLKSWAGEN
-831394128-21,Alícia Costa Araújo, acosta@icloud.com.br,KPN-4002FOX,FOX,VOLKSWAGEN
-831394128-21,Alícia Costa Araújo, acosta@icloud.com.br,KPN-4002FOX,FOX,VOLKSWAGEN
-971359296-92,Yasmin Campos Mendes Gomes, ycampos@gmail.com.br,RVN-6038TORO,TORO,FIAT
-967201424-34,Maria Helena Freitas, mhelena@proton.com.br,NMQ-8799ONIX,ONIX,CHEVROLET
-967201424-34,Maria Helena Freitas, mhelena@proton.com.br,NMQ-8799ONIX,ONIX,CHEVROLET
-967201424-34,Maria Helena Freitas, mhelena@proton.com.br,NMQ-8799ONIX,ONIX,CHEVROLET
-967201424-34,Maria Helena Freitas, mhelena@proton.com.br,NMQ-8799ONIX,ONIX,CHEVROLET
-967201424-34,Maria Helena Freitas, mhelena@proton.com.br,NMQ-8799ONIX,ONIX,CHEVROLET
-967201424-34,Maria Helena Freitas, mhelena@proton.com.br,NMQ-8799ONIX,ONIX,CHEVROLET
-840443039-94,Pietro Nascimento, pnascimento@gmx.com.br,TUU-3861TUCSON,TUCSON,HYUNDAI
-840443039-94,Pietro Nascimento, pnascimento@gmx.com.br,TUU-3861TUCSON,TUCSON,HYUNDAI
-840443039-94,Pietro Nascimento, pnascimento@gmx.com.br,TUU-3861TUCSON,TUCSON,HYUNDAI
-840443039-94,Pietro Nascimento, pnascimento@gmx.com.br,TUU-3861TUCSON,TUCSON,HYUNDAI
-840443039-94,Pietro Nascimento, pnascimento@gmx.com.br,TUU-3861TUCSON,TUCSON,HYUNDAI
-840443039-94,Pietro Nascimento, pnascimento@gmx.com.br,TUU-3861TUCSON,TUCSON,HYUNDAI
-768763129-19,João Miguel Lima Oliveira Carvalho, jmiguel@icloud.com.br,ALW-8085STRADA,STRADA,FIAT
-768763129-19,João Miguel Lima Oliveira Carvalho, jmiguel@icloud.com.br,ALW-8085STRADA,STRADA,FIAT
-768763129-19,João Miguel Lima Oliveira Carvalho, jmiguel@icloud.com.br,ALW-8085STRADA,STRADA,FIAT
-768763129-19,João Miguel Lima Oliveira Carvalho, jmiguel@icloud.com.br,ALW-8085STRADA,STRADA,FIAT
-768763129-19,João Miguel Lima Oliveira Carvalho, jmiguel@icloud.com.br,ALW-8085STRADA,STRADA,FIAT
-768763129-19,João Miguel Lima Oliveira Carvalho, jmiguel@icloud.com.br,ALW-8085STRADA,STRADA,FIAT
-775521998-04,Vicente Pinto, vpinto@proton.com.br,CDL-3014SAVEIRO,SAVEIRO,VOLKSWAGEN
-775521998-04,Vicente Pinto, vpinto@proton.com.br,CDL-3014SAVEIRO,SAVEIRO,VOLKSWAGEN
-775521998-04,Vicente Pinto, vpinto@proton.com.br,CDL-3014SAVEIRO,SAVEIRO,VOLKSWAGEN
-775521998-04,Vicente Pinto, vpinto@proton.com.br,CDL-3014SAVEIRO,SAVEIRO,VOLKSWAGEN
-775521998-04,Vicente Pinto, vpinto@proton.com.br,CDL-3014SAVEIRO,SAVEIRO,VOLKSWAGEN
-775521998-04,Vicente Pinto, vpinto@proton.com.br,CDL-3014SAVEIRO,SAVEIRO,VOLKSWAGEN
+630401412-48,Lorena Araújo, laraújo@gmx.com.br,AWY-1265, RENEGADE,JEEP
+630401412-48,Lorena Araújo, laraújo@gmx.com.br,QEL-9618, ETIOS,TOYOTA
+630401412-48,Lorena Araújo, laraújo@gmx.com.br,CLL-8930, AGILE,CHEVROLET
+630401412-48,Lorena Araújo, laraújo@gmx.com.br,UNU-2963, CLASSIC,CHEVROLET
+630401412-48,Lorena Araújo, laraújo@gmx.com.br,UKW-4928, C3,CITROËN
+630401412-48,Lorena Araújo, laraújo@gmx.com.br,TFF-9824, KWID,RENAULT
+909028364-64,Anthony Santos Nascimento Oliveira, asantos@icloud.com.br,MTR-9080, VECTRA,CHEVROLET
+909028364-64,Anthony Santos Nascimento Oliveira, asantos@icloud.com.br,TDP-8816, A3,AUDI
+909028364-64,Anthony Santos Nascimento Oliveira, asantos@icloud.com.br,ZTQ-7149, KA,FORD
+909028364-64,Anthony Santos Nascimento Oliveira, asantos@icloud.com.br,RPP-2653, MARCH,NISSAN
+909028364-64,Anthony Santos Nascimento Oliveira, asantos@icloud.com.br,WKV-4235, KICKS,NISSAN
+909028364-64,Anthony Santos Nascimento Oliveira, asantos@icloud.com.br,ECG-6138, ETIOS,TOYOTA
+948817225-52,Leonardo Almeida Barbosa, lalmeida@proton.com.br,HVU-8390, GOL,VOLKSWAGEN
+948817225-52,Leonardo Almeida Barbosa, lalmeida@proton.com.br,CCX-6146, MARCH,NISSAN
+948817225-52,Leonardo Almeida Barbosa, lalmeida@proton.com.br,ZDF-8903, HB20,HYUNDAI
+948817225-52,Leonardo Almeida Barbosa, lalmeida@proton.com.br,ANL-2143, TORO,FIAT
+948817225-52,Leonardo Almeida Barbosa, lalmeida@proton.com.br,RUT-1566, SAVEIRO,VOLKSWAGEN
+948817225-52,Leonardo Almeida Barbosa, lalmeida@proton.com.br,TJK-8500, CLASSIC,CHEVROLET
+670553069-95,Leonardo Barros, lbarros@yahoo.com.br,LCF-6935, FUSCA,VOLKSWAGEN
+670553069-95,Leonardo Barros, lbarros@yahoo.com.br,HBG-1433, HB20,HYUNDAI
+670553069-95,Leonardo Barros, lbarros@yahoo.com.br,GYA-4392, SANDERO,RENAULT
+670553069-95,Leonardo Barros, lbarros@yahoo.com.br,SJV-8127, HR-V,HONDA
+670553069-95,Leonardo Barros, lbarros@yahoo.com.br,HGQ-2302, 207,PEUGEOT
+670553069-95,Leonardo Barros, lbarros@yahoo.com.br,FYN-5559, SAVEIRO,VOLKSWAGEN
+876356656-48,Maria Luiza Barbosa, mluiza@outlook.com.br,QAB-7983, CLASSIC,CHEVROLET
+876356656-48,Maria Luiza Barbosa, mluiza@outlook.com.br,SMO-9347, HR-V,HONDA
+876356656-48,Maria Luiza Barbosa, mluiza@outlook.com.br,LLJ-2242, LOGAN,RENAULT
+876356656-48,Maria Luiza Barbosa, mluiza@outlook.com.br,ZQS-5404, SAVEIRO,VOLKSWAGEN
+876356656-48,Maria Luiza Barbosa, mluiza@outlook.com.br,IGM-8645, CLIO,RENAULT
+876356656-48,Maria Luiza Barbosa, mluiza@outlook.com.br,CWX-7389, CITY,HONDA
+744394795-02,Lucas Oliveira Pinto, loliveira@outlook.com.br,VNY-9555, KICKS,NISSAN
+744394795-02,Lucas Oliveira Pinto, loliveira@outlook.com.br,AMF-2665, RENEGADE,JEEP
+744394795-02,Lucas Oliveira Pinto, loliveira@outlook.com.br,YTK-5589, STRADA,FIAT
+744394795-02,Lucas Oliveira Pinto, loliveira@outlook.com.br,QYS-6685, PUNTO,FIAT
+744394795-02,Lucas Oliveira Pinto, loliveira@outlook.com.br,JSZ-9090, HILUX,TOYOTA
+744394795-02,Lucas Oliveira Pinto, loliveira@outlook.com.br,VZD-2940, TORO,FIAT
+725199257-28,Davi Pereira Rodrigues Campos, dpereira@zoho.com.br,PWQ-4008, KWID,RENAULT
+725199257-28,Davi Pereira Rodrigues Campos, dpereira@zoho.com.br,HTK-6344, ECOSPORT,FORD
+725199257-28,Davi Pereira Rodrigues Campos, dpereira@zoho.com.br,ALL-6898, SPACEFOX,VOLKSWAGEN
+725199257-28,Davi Pereira Rodrigues Campos, dpereira@zoho.com.br,NER-5775, MARCH,NISSAN
+725199257-28,Davi Pereira Rodrigues Campos, dpereira@zoho.com.br,ORY-7309, CORSA,CHEVROLET
+725199257-28,Davi Pereira Rodrigues Campos, dpereira@zoho.com.br,NWP-7285, LOGAN,RENAULT
+709019980-45,Luiza Rodrigues Dias Santos, lrodrigues@zoho.com.br,BSZ-4348, VECTRA,CHEVROLET
+709019980-45,Luiza Rodrigues Dias Santos, lrodrigues@zoho.com.br,DMQ-8464, GOL,VOLKSWAGEN
+709019980-45,Luiza Rodrigues Dias Santos, lrodrigues@zoho.com.br,EYP-6946, CLIO,RENAULT
+709019980-45,Luiza Rodrigues Dias Santos, lrodrigues@zoho.com.br,YHQ-7377, PRISMA,CHEVROLET
+709019980-45,Luiza Rodrigues Dias Santos, lrodrigues@zoho.com.br,HRI-1764, KA,FORD
+709019980-45,Luiza Rodrigues Dias Santos, lrodrigues@zoho.com.br,ZWU-8979, UNO,FIAT
+909764851-70,Valentina Martins Moura Rodrigues, vmartins@aol.com.br,BNW-8245, COBALT,CHEVROLET
+909764851-70,Valentina Martins Moura Rodrigues, vmartins@aol.com.br,OLS-4353, LOGAN,RENAULT
+909764851-70,Valentina Martins Moura Rodrigues, vmartins@aol.com.br,DNV-2976, HILUX,TOYOTA
+909764851-70,Valentina Martins Moura Rodrigues, vmartins@aol.com.br,DHL-9375, MOBI,FIAT
+909764851-70,Valentina Martins Moura Rodrigues, vmartins@aol.com.br,XPC-1372, CAPTIVA,CHEVROLET
+909764851-70,Valentina Martins Moura Rodrigues, vmartins@aol.com.br,FEI-6567, CLASSIC,CHEVROLET
+918062698-70,Sophia Dias, sdias@proton.com.br,PQD-4329, TUCSON,HYUNDAI
+918062698-70,Sophia Dias, sdias@proton.com.br,YGC-1395, PRISMA,CHEVROLET
+918062698-70,Sophia Dias, sdias@proton.com.br,VQK-8802, CLIO,RENAULT
+918062698-70,Sophia Dias, sdias@proton.com.br,GTE-7288, CIVIC,HONDA
+918062698-70,Sophia Dias, sdias@proton.com.br,CIH-6179, PALIO,FIAT
+918062698-70,Sophia Dias, sdias@proton.com.br,LZW-5288, PUNTO,FIAT
+891214787-48,Eloá Castro, ecastro@icloud.com.br,UOY-4363, C3,CITROËN
+891214787-48,Eloá Castro, ecastro@icloud.com.br,HMQ-2907, COBALT,CHEVROLET
+891214787-48,Eloá Castro, ecastro@icloud.com.br,GHN-5239, LOGAN,RENAULT
+891214787-48,Eloá Castro, ecastro@icloud.com.br,XAE-2939, CELTA,CHEVROLET
+891214787-48,Eloá Castro, ecastro@icloud.com.br,FKM-4301, KICKS,NISSAN
+891214787-48,Eloá Castro, ecastro@icloud.com.br,JSO-8338, LOGAN,RENAULT
+892379669-83,Isaac Fernandes, ifernandes@zoho.com.br,LXL-7807, STRADA,FIAT
+892379669-83,Isaac Fernandes, ifernandes@zoho.com.br,ZXQ-8386, FOX,VOLKSWAGEN
+892379669-83,Isaac Fernandes, ifernandes@zoho.com.br,OPI-5724, IDEA,FIAT
+892379669-83,Isaac Fernandes, ifernandes@zoho.com.br,GTB-9966, GOLF,VOLKSWAGEN
+892379669-83,Isaac Fernandes, ifernandes@zoho.com.br,YFQ-2295, ETIOS,TOYOTA
+892379669-83,Isaac Fernandes, ifernandes@zoho.com.br,AZG-7813, VOYAGE,VOLKSWAGEN
+905661406-37,Calebe Nascimento Costa, cnascimento@outlook.com.br,EZC-9696, FUSCA,VOLKSWAGEN
+905661406-37,Calebe Nascimento Costa, cnascimento@outlook.com.br,CMJ-2040, ONIX,CHEVROLET
+905661406-37,Calebe Nascimento Costa, cnascimento@outlook.com.br,QWB-2177, PRISMA,CHEVROLET
+905661406-37,Calebe Nascimento Costa, cnascimento@outlook.com.br,UOD-4379, COROLLA,TOYOTA
+905661406-37,Calebe Nascimento Costa, cnascimento@outlook.com.br,PSG-7357, SIENA,FIAT
+905661406-37,Calebe Nascimento Costa, cnascimento@outlook.com.br,YEU-8005, HILUX,TOYOTA
+920868226-67,Théo Castro Freitas, tcastro@outlook.com.br,WPW-1695, SANDERO,RENAULT
+920868226-67,Théo Castro Freitas, tcastro@outlook.com.br,NNR-7799, KICKS,NISSAN
+920868226-67,Théo Castro Freitas, tcastro@outlook.com.br,JOY-8056, JETA,VOLKSWAGEN
+920868226-67,Théo Castro Freitas, tcastro@outlook.com.br,UTI-6743, RENEGADE,JEEP
+920868226-67,Théo Castro Freitas, tcastro@outlook.com.br,TZU-4693, FOX,VOLKSWAGEN
+920868226-67,Théo Castro Freitas, tcastro@outlook.com.br,DCF-6035, PALIO,FIAT
+846605003-52,Bento Dias, bdias@aol.com.br,DIV-5071, 207,PEUGEOT
+846605003-52,Bento Dias, bdias@aol.com.br,GQX-2443, CORSA,CHEVROLET
+846605003-52,Bento Dias, bdias@aol.com.br,IEH-7733, VECTRA,CHEVROLET
+846605003-52,Bento Dias, bdias@aol.com.br,VNC-7757, CITY,HONDA
+846605003-52,Bento Dias, bdias@aol.com.br,AIL-1577, TUCSON,HYUNDAI
+846605003-52,Bento Dias, bdias@aol.com.br,LYW-3622, FIT,HONDA
+620727237-35,Alícia Barros Martins Castro, abarros@outlook.com.br,IRZ-4728, PRISMA,CHEVROLET
+620727237-35,Alícia Barros Martins Castro, abarros@outlook.com.br,HOD-5506, CORSA,CHEVROLET
+620727237-35,Alícia Barros Martins Castro, abarros@outlook.com.br,PFW-3758, ETIOS,TOYOTA
+620727237-35,Alícia Barros Martins Castro, abarros@outlook.com.br,MWP-5067, FIESTA,FORD
+620727237-35,Alícia Barros Martins Castro, abarros@outlook.com.br,OQJ-8558, ONIX,CHEVROLET
+940532236-10,Cecília Rodrigues Nascimento, crodrigues@yahoo.com.br,QWH-7056, VECTRA,CHEVROLET
+940532236-10,Cecília Rodrigues Nascimento, crodrigues@yahoo.com.br,ZAQ-2544, TORO,FIAT
+940532236-10,Cecília Rodrigues Nascimento, crodrigues@yahoo.com.br,GJD-8029, MARCH,NISSAN
+940532236-10,Cecília Rodrigues Nascimento, crodrigues@yahoo.com.br,LUP-7714, KICKS,NISSAN
+940532236-10,Cecília Rodrigues Nascimento, crodrigues@yahoo.com.br,EUO-2900, FOX,VOLKSWAGEN
+940532236-10,Cecília Rodrigues Nascimento, crodrigues@yahoo.com.br,HXT-9072, ETIOS SEDAN,TOYOTA
+702051221-38,Sophia Monteiro Martins, smonteiro@gmx.com.br,YCT-9015, COROLLA,TOYOTA
+702051221-38,Sophia Monteiro Martins, smonteiro@gmx.com.br,DEJ-9773, C3,CITROËN
+702051221-38,Sophia Monteiro Martins, smonteiro@gmx.com.br,FRR-3157, GOLF,VOLKSWAGEN
+702051221-38,Sophia Monteiro Martins, smonteiro@gmx.com.br,TUQ-5109, ECOSPORT,FORD
+702051221-38,Sophia Monteiro Martins, smonteiro@gmx.com.br,FPW-1251, SIENA,FIAT
+702051221-38,Sophia Monteiro Martins, smonteiro@gmx.com.br,JHG-3886, HILUX,TOYOTA
+950942727-73,Maria Helena Campos, mhelena@gmail.com.br,EUV-4743, CAPTUR,RENAULT
+950942727-73,Maria Helena Campos, mhelena@gmail.com.br,IJT-4832, IDEA,FIAT
+950942727-73,Maria Helena Campos, mhelena@gmail.com.br,RFW-8124, STRADA,FIAT
+950942727-73,Maria Helena Campos, mhelena@gmail.com.br,UAW-2564, A3,AUDI
+950942727-73,Maria Helena Campos, mhelena@gmail.com.br,CHF-8971, PRISMA,CHEVROLET
+950942727-73,Maria Helena Campos, mhelena@gmail.com.br,AIS-5180, ECOSPORT,FORD
+705270096-86,Enrico Fernandes Nascimento Souza, efernandes@aol.com.br,VQH-5455, CIVIC,HONDA
+705270096-86,Enrico Fernandes Nascimento Souza, efernandes@aol.com.br,TOU-6169, VECTRA,CHEVROLET
+705270096-86,Enrico Fernandes Nascimento Souza, efernandes@aol.com.br,WVK-3535, CAPTUR,RENAULT
+705270096-86,Enrico Fernandes Nascimento Souza, efernandes@aol.com.br,YFW-7248, SPACEFOX,VOLKSWAGEN
+705270096-86,Enrico Fernandes Nascimento Souza, efernandes@aol.com.br,TMC-6527, VECTRA,CHEVROLET
+705270096-86,Enrico Fernandes Nascimento Souza, efernandes@aol.com.br,FBN-3352, CLASSIC,CHEVROLET
+831394128-21,Alícia Costa Araújo, acosta@icloud.com.br,UZO-2935, KWID,RENAULT
+831394128-21,Alícia Costa Araújo, acosta@icloud.com.br,LDE-4966, AGILE,CHEVROLET
+831394128-21,Alícia Costa Araújo, acosta@icloud.com.br,WPP-1347, CLASSIC,CHEVROLET
+831394128-21,Alícia Costa Araújo, acosta@icloud.com.br,CJB-5180, CLASSIC,CHEVROLET
+831394128-21,Alícia Costa Araújo, acosta@icloud.com.br,GAG-2420, PRISMA,CHEVROLET
+831394128-21,Alícia Costa Araújo, acosta@icloud.com.br,KPN-4002, FOX,VOLKSWAGEN
+971359296-92,Yasmin Campos Mendes Gomes, ycampos@gmail.com.br,RVN-6038, TORO,FIAT
+967201424-34,Maria Helena Freitas, mhelena@proton.com.br,PNW-8201, FIESTA,FORD
+967201424-34,Maria Helena Freitas, mhelena@proton.com.br,WNP-9726, FOCUS,FORD
+967201424-34,Maria Helena Freitas, mhelena@proton.com.br,SJI-4667, LOGAN,RENAULT
+967201424-34,Maria Helena Freitas, mhelena@proton.com.br,NIX-7344, CELTA,CHEVROLET
+967201424-34,Maria Helena Freitas, mhelena@proton.com.br,SQU-8934, LOGAN,RENAULT
+967201424-34,Maria Helena Freitas, mhelena@proton.com.br,NMQ-8799, ONIX,CHEVROLET
+840443039-94,Pietro Nascimento, pnascimento@gmx.com.br,RSV-6368, FIT,HONDA
+840443039-94,Pietro Nascimento, pnascimento@gmx.com.br,XEK-5072, MOBI,FIAT
+840443039-94,Pietro Nascimento, pnascimento@gmx.com.br,MNZ-8255, HB20,HYUNDAI
+840443039-94,Pietro Nascimento, pnascimento@gmx.com.br,MDU-5344, I30,HYUNDAI
+840443039-94,Pietro Nascimento, pnascimento@gmx.com.br,ZVT-5674, MOBI,FIAT
+840443039-94,Pietro Nascimento, pnascimento@gmx.com.br,TUU-3861, TUCSON,HYUNDAI
+768763129-19,João Miguel Lima Oliveira Carvalho, jmiguel@icloud.com.br,EEC-9950, DUSTER,RENAULT
+768763129-19,João Miguel Lima Oliveira Carvalho, jmiguel@icloud.com.br,LYR-5088, C3,CITROËN
+768763129-19,João Miguel Lima Oliveira Carvalho, jmiguel@icloud.com.br,YSL-8511, PRISMA,CHEVROLET
+768763129-19,João Miguel Lima Oliveira Carvalho, jmiguel@icloud.com.br,SMT-5366, HR-V,HONDA
+768763129-19,João Miguel Lima Oliveira Carvalho, jmiguel@icloud.com.br,LJO-4309, FOCUS,FORD
+768763129-19,João Miguel Lima Oliveira Carvalho, jmiguel@icloud.com.br,ALW-8085, STRADA,FIAT
+775521998-04,Vicente Pinto, vpinto@proton.com.br,IQP-4519, CELTA,CHEVROLET
+775521998-04,Vicente Pinto, vpinto@proton.com.br,GRG-2123, CITY,HONDA
+775521998-04,Vicente Pinto, vpinto@proton.com.br,ORK-2733, JETA,VOLKSWAGEN
+775521998-04,Vicente Pinto, vpinto@proton.com.br,BRI-6128, CLASSIC,CHEVROLET
+775521998-04,Vicente Pinto, vpinto@proton.com.br,ZLU-2009, CAPTIVA,CHEVROLET
+775521998-04,Vicente Pinto, vpinto@proton.com.br,CDL-3014, SAVEIRO,VOLKSWAGEN
