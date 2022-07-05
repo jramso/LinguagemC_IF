@@ -9,6 +9,9 @@
 /*
 Estrutura da Lista
 */
+#ifndef TAD_LISTA_H_
+#define TAD_LISTA_H_
+#endif
 typedef void *tdado;
 
 typedef struct tnoh{

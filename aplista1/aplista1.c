@@ -5,17 +5,18 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "tadlista.c"
+#include <string.h>
 
 /*****************
 ** Definindo struct tpessoa
 ************/
 typedef struct pessoa
 {
-   char *nome;
-   char *cpf;
-   float *altura;
-   int *idade;
-}*tpessoa;
+   char nome[250];
+   char cpf[15];
+   float altura;
+   int idade;
+}tpessoa;
 
 /**************************************************
 ** função do tipo Lista (Retorna uma lista)
@@ -24,24 +25,19 @@ typedef struct pessoa
 Lista listaPessoa(Lista lN,Lista lC,Lista lI,Lista lA){
     Lista lst=criaLista();
     int i=0;
-    tpessoa pNCIA;
+    tpessoa *pNCIA;
+    char aux[6];
     while(i < lC->tamanho-1){
-        pNCIA=(tpessoa)malloc(sizeof(tdado)*4);
-        //aloco memória pra receber os dados
-        pNCIA->nome=(char *)malloc(sizeof(tdado));
-        pNCIA->cpf=(char *)malloc(sizeof(tdado));
-        pNCIA->idade=(int *)malloc(sizeof(tdado));
-        pNCIA->altura=(float *)malloc(sizeof(tdado));
+        pNCIA=(tpessoa*)malloc(sizeof(tpessoa));
         //recebo os dados nas variaveis da pessoa
-        pNCIA->nome=dadoListaProf(lN,i);
-        pNCIA->cpf=dadoListaProf(lC,i);
-        pNCIA->idade=dadoListaProf(lI,i);
-        pNCIA->altura=dadoListaProf(lA,i);
+        strcpy(pNCIA->nome,(char*)dadoLista(lN,i));
+        strcpy(pNCIA->cpf,(char*)dadoLista(lC,i));
+        strcpy(aux,(char*)dadoLista(lI,i));
+        pNCIA->idade=(int)atoi(aux);
+        strcpy(aux,(char*)dadoLista(lA,i));
+        pNCIA->altura=(strtof(aux,NULL));
         //preenche a lista de tpessoas
-        appendLista(lst,pNCIA->nome);
-        appendLista(lst,pNCIA->cpf);
-        appendLista(lst,pNCIA->idade);
-        appendLista(lst,pNCIA->altura);
+        appendLista(lst,pNCIA);
         i++;
     }
     return lst;
@@ -51,34 +47,28 @@ Lista listaPessoa(Lista lN,Lista lC,Lista lI,Lista lA){
 ** funçoes do tipo Void (Sem retorno)
 ***********************************************/
 //cria um arquivo e preenche o arquivo com os dados de uma lista
-void arqPessoa(Lista lst){
+Lista arqPessoa(Lista lst,char arqnome[]){
     FILE *pont_arq;
-    pont_arq = fopen("bdpessoas.txt","w");
-    char *Linha;
+    pont_arq = fopen(arqnome,"w");
+    tpessoa *pessoaX;
     for (int i=0;i<=lst->tamanho;i++){
-        Linha=(char *)malloc(sizeof(tdado));
-        Linha=dadoListaProf(lst,i);
-        if(Linha!=NULL){
-            if(i<lst->tamanho-3){ //boa e velha gambiarra por falta de "\n" suficientes dos arquivos
-                fprintf(pont_arq,"%s",Linha);
+        pessoaX=(tpessoa*)malloc(sizeof(tpessoa));
+        pessoaX=dadoListaProf(lst,i);
+        if(pessoaX!=NULL){
+            if(i<lst->tamanho-1){ //boa e velha gambiarra por falta de "\n" suficientes dos arquivos
+                fprintf(pont_arq,"%s,%s,%.2f,%d\n",pessoaX->nome,pessoaX->cpf,pessoaX->altura,pessoaX->idade);
             }else{
-                fprintf(pont_arq,"\n%s",Linha);        
+                fprintf(pont_arq,"%s,%s,%.2f,%d",pessoaX->nome,pessoaX->cpf,pessoaX->altura,pessoaX->idade);      
             }
         }
     }
     fclose(pont_arq);
+    return lst;
 }//FIM ARQPESSOA
 
-//Exibe os dados de uma Lista (apenas para auxiliar)
-// void printCharLista(Lista l, int indice){
-//     char *pnum;
-//     pnum=(char *)malloc(sizeof(tdado)); //aloca tdado em um ponteiro pra char para ler qualquer lista
-//     pnum=dadoListaProf(l,indice);
-//     printf("%s\n",pnum);
-// }//FIM printCharLista
 
 //Função que carrega os dados do arquivo para uma lista.
-void arqCarregaDados(char arq[],Lista lst){
+void arqCarregaDados(char arq[],Lista lst,int flag){
     int i=0;//auxiliar
     FILE *pontarq; //ponteiro pro arquivo
     pontarq = fopen(arq,"r");
@@ -87,7 +77,14 @@ void arqCarregaDados(char arq[],Lista lst){
         dado=(char *)malloc(sizeof(tdado));//aloca tamanho de TDADO: 'dado'
         fgets(dado,150,pontarq);//escreve ate 150 caracteres ou \n o dado
         if(dado!=NULL){ //se o dado nao for nulo insere na lista
-            insertLista(lst,i,dado);
+            dado[strcspn(dado, "\n")] = 0; //Remove o \n da string dado
+            if (flag==1){
+                insertLista(lst,i,dado);
+            }else if(flag==2){
+                insertLista(lst,i,(int*)dado);
+            }else if(flag==3){
+                insertLista(lst,i,(float*)dado);
+            }
             i++;
         }
     }
@@ -104,16 +101,15 @@ int main(){
     Lista lstAlturas=criaLista();
     
     //Carregando os qrquivos pra listas
-    arqCarregaDados("bdnomes.txt",lstNomes);//Carrega os dados do arquivo "bdnomes.txt" para a lista de nomes
-    arqCarregaDados("bdcpfs.txt",lstCpf);//Carrega os dados do arquivo "bdcpfs.txt" para a lista de cpfs
-    arqCarregaDados("bdidades.txt",lstIdade);//Carrega os dados do arquivo "bdidades.txt" para a lista de idades
-    arqCarregaDados("bdalturas.txt",lstAlturas);//Carrega os dados do arquivo "bdalturass.txt" para a lista de alturas
+    //flag = 1 (char), flag = 2(int), flag=3(float)
+    arqCarregaDados("bdnomes.txt",lstNomes,1);//Carrega os dados do arquivo "bdnomes.txt" para a lista de nomes
+    arqCarregaDados("bdcpfs.txt",lstCpf,1);//Carrega os dados do arquivo "bdcpfs.txt" para a lista de cpfs
+    arqCarregaDados("bdidades.txt",lstIdade,2);//Carrega os dados do arquivo "bdidades.txt" para a lista de idades
+    arqCarregaDados("bdalturas.txt",lstAlturas,3);//Carrega os dados do arquivo "bdalturass.txt" para a lista de alturas
 
     //criando a lista de Pessoas
     Lista lstPessoas=listaPessoa(lstNomes,lstCpf,lstIdade,lstAlturas);//cria uma lista de tpessoas a partir dos dados das listas anteriores;
     //Criando arquivo a partir da lista de pessoas.
-    arqPessoa(lstPessoas);//cria o arquivo "bdpessoas.txt" e preenche com os dados da lista lstPessoas (lista de pessoas)
-
-
+    arqPessoa(lstPessoas,"bdpessoas.txt");//cria o arquivo "bdpessoas.txt" e preenche com os dados da lista lstPessoas (lista de pessoas)
     return 0 ;//FIM
 }

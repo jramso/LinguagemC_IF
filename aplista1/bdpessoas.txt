@@ -1,0 +1,75 @@
+Lorena Barros Santos,974544540-81,1.69,38
+Maria Eduarda Monteiro Rodrigues,616369913-20,1.73,42
+Isaac Carvalho,968382752-89,1.65,20
+Caio Gomes Monteiro Araújo,752538230-43,1.88,17
+Felipe Rodrigues,622941353-04,1.59,51
+Heloísa Castro,959276242-79,1.92,49
+Arthur Rodrigues Castro Araújo,933248388-98,1.74,16
+Heitor Mendes Castro Monteiro,775288795-14,1.85,33
+Anthony Fernandes Oliveira Rodrigues,949489247-81,1.77,47
+Heloísa Santos Rodrigues Carvalho,669373393-50,1.88,41
+Enzo Pereira Ribeiro Souza,682580599-71,1.91,41
+Vitor Oliveira Freitas Nascimento,730493402-41,1.78,40
+Benjamin Cavalcanti Araújo Santos,948846451-76,1.94,22
+Ana Clara Fernandes Rocha Moura,974731158-99,1.94,51
+Yasmin Barros Costa,731936180-76,1.73,48
+Gustavo Carvalho Fernandes,755681091-58,1.93,40
+Davi Lucca Rocha Nascimento Campos,920508711-98,1.70,47
+Laura Moura Gomes,672519558-88,1.70,51
+Gustavo Carvalho Araújo,881516114-05,1.91,49
+Eduardo Ribeiro Silva Oliveira,801349593-81,1.74,24
+Ana Luiza Fernandes Monteiro,917459572-48,1.89,16
+Clara Carvalho,613834830-88,1.75,34
+Liz Santos Mendes,901290255-01,1.68,27
+Antônio Barros Ribeiro Almeida,688044706-21,1.74,31
+Enzo Barbosa Monteiro Pinto,787496180-06,1.75,17
+Vitor Rocha Barros,848702803-44,1.83,47
+Eduardo Gomes Pereira Monteiro,667261563-12,1.59,27
+Catarina Barbosa,725238535-94,1.72,52
+Yasmin Costa Fernandes Campos,800392990-14,1.83,42
+Antonella Dias Cavalcanti Barbosa,970455124-79,1.75,54
+Miguel Lima,854829231-92,1.60,29
+Mariana Castro Rocha Almeida,862652588-89,1.72,32
+João Miguel Freitas,753214673-06,1.86,40
+Emanuel Carvalho Monteiro Pinto,958033527-88,1.63,54
+Gabriel Lima Cardoso Freitas,650315877-36,1.80,28
+Isaac Rocha Barros,875211736-89,1.78,46
+Felipe Castro,801034290-61,1.59,47
+Manuela Santos,720763061-11,1.66,17
+Pedro Henrique Dias,955960432-31,1.83,28
+Catarina Moura Gomes,733302553-83,1.67,33
+Pietro Rocha,839952916-15,1.76,26
+Ana Júlia Lima,768619599-17,1.78,30
+Eloá Silva,865616101-05,1.78,49
+Maria Helena Rocha,786490582-81,1.68,39
+Maria Luiza Lima Oliveira Martins,899033925-07,1.66,20
+Joaquim Pereira Nascimento Martins,962072093-09,1.81,39
+Davi Lima Freitas Almeida,893237455-45,1.64,45
+Pietro Mendes,953381245-79,1.65,38
+Pietro Carvalho,780616214-22,1.56,48
+Eloá Castro Costa,928346923-80,1.65,17
+Lorena Carvalho,617396460-02,1.90,23
+Maria Luiza Cavalcanti Freitas,860895174-14,1.86,21
+Maitê Dias Rodrigues Barros,827967846-76,1.64,54
+Lívia Pereira Santos Mendes,942091756-32,1.68,41
+Vitor Santos Rocha Barros,843101005-81,1.60,32
+Maria Eduarda Costa Gomes,854771804-77,1.56,37
+Davi Rocha,619971710-23,1.79,53
+Maria Alice Martins,861127133-53,1.89,37
+Murilo Ribeiro Rodrigues Moura,614504702-10,1.58,36
+Laura Moura,753377442-85,1.59,25
+Gustavo Martins,962458884-33,1.84,20
+Rebeca Silva Freitas Cardoso,737033502-84,1.60,26
+João Lucas Santos,854424940-24,1.82,43
+Lívia Costa Almeida Mendes,660307050-32,1.77,16
+Gael Souza Moura Carvalho,974878127-07,1.66,46
+Helena Dias,905607447-80,1.90,29
+Beatriz Araújo,831781055-72,1.71,24
+Lavínia Almeida,824282825-03,1.59,35
+Noah Araújo Barros Rocha,740638443-16,1.56,39
+Maria Alice Alves Mendes,945499598-68,1.93,22
+Calebe Souza Rodrigues,863433742-26,1.75,54
+Ana Laura Monteiro,851337395-94,1.68,19
+Sophia Santos Lima Costa,633129674-20,1.86,29
+Liz Araújo,657338709-84,1.81,17
+Maria Helena Pinto,625116728-61,1.81,16
