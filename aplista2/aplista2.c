@@ -127,7 +127,7 @@ Lista lDonos(Lista lA,Lista lB){
                 strcpy(donoV->placa,ps);
                 strcpy(donoV->modelo,veic->modelo);
                 strcpy(donoV->marca,veic->marca);
-                printf("%s,%s,%s,%s,%s\n",donoV->cpf,donoV->nome,donoV->email,donoV->placa,donoV->modelo); //debugando preenche normal
+                //printf("%s,%s,%s,%s,%s\n",donoV->cpf,donoV->nome,donoV->email,donoV->placa,donoV->modelo); //debugando preenche normal
                 insertLista(lst,aux,donoV); // porem no final os modelos estao diferentes
                 aux++;
                 ps=NULL;
